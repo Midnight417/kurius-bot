@@ -2,7 +2,7 @@
     "name": "kurius-bot",
     "version": "1.0.0",
     "description": "A bot made for Kurius",
-    "main":  "bot.js",
+    "main": "bot.js",
     "dependencies": {
         "discord.js": "^12.5.1",
         "firebase": "^8.2.3",
@@ -11,5 +11,5 @@
     },
     "engines": {
         "node": "13.14.0"
-      }
+    }
 }
